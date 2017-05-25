@@ -1,0 +1,6 @@
+[2017-05-25 15:38:32][INFO ][com.newland.newkafka2hdfs.utils.proptest][29][main]: Thu May 25 15:38:32 CST 2017--->>>1--->>>3
+[2017-05-25 15:47:14][INFO ][com.newland.newkafka2hdfs.utils.proptest][30][main]: Thu May 25 15:47:14 CST 2017--->>>1--->>>3
+[2017-05-25 15:47:48][INFO ][com.newland.newkafka2hdfs.utils.proptest][30][main]: Thu May 25 15:47:48 CST 2017--->>>1--->>>3
+[2017-05-25 15:48:09][INFO ][com.newland.newkafka2hdfs.utils.proptest][30][main]: Thu May 25 15:48:09 CST 2017--->>>null--->>>null
+[2017-05-25 15:51:53][INFO ][com.newland.newkafka2hdfs.utils.proptest][29][main]: Thu May 25 15:51:53 CST 2017--->>>1--->>>3
+[2017-05-25 15:52:18][INFO ][com.newland.newkafka2hdfs.utils.proptest][29][main]: Thu May 25 15:52:18 CST 2017--->>>2--->>>9
